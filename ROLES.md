@@ -1,11 +1,21 @@
-# Team Roles and Responsibilities
+### Mechanical Design
+- Concept development
+- Structural and ergonomic considerations
+- Housing and wrap guidance design
 
-Each team member is responsible for a primary area while supporting overall system integration.
+### Electrical Systems
+- Power system analysis
+- Battery and motor selection
+- Electrical component integration
+- Wiring and control implementation
 
-Roles may include but are not limited to:
-- Electrical Systems Lead  
-- Software Systems Lead  
-- Documentation and Integration Lead  
-- Testing and Validation Lead  
+### Documentation and Systems Integration
+- Engineering documentation
+- Milestone tracking
+- Report preparation
+- System-level coordination
 
-Roles may evolve during the project and will be updated as needed.
+### Testing and Evaluation
+- Prototype testing
+- Performance evaluation
+- Design iteration feedback
