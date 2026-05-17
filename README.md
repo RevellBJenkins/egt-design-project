@@ -78,6 +78,10 @@ Included materials:
 - Prototype and subsystem visuals
 - Engineering documentation figures
 
+### System Overview
+
+![System Overview](MEDIA/system_overview.png)
+
 ## Educational Purpose
 
 This repository was developed for academic and portfolio purposes as part of the EGT curriculum. The project emphasizes engineering process, subsystem integration, and technical documentation rather than commercial deployment.
