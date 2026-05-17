@@ -90,6 +90,14 @@ Included materials:
 
 ![Mechanical Design](MEDIA/component_enclosure_top.png)
 
+---
+
+## Final Documentation
+
+The complete engineering report for the project can be found below:
+
+[EGT Final Team Report](DOCS/EG%20Terminators%20-%20EGT%20Team%20Report.pdf)
+
 ## Educational Purpose
 
 This repository was developed for academic and portfolio purposes as part of the EGT curriculum. The project emphasizes engineering process, subsystem integration, and technical documentation rather than commercial deployment.
