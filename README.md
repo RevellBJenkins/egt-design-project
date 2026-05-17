@@ -1,31 +1,85 @@
-# EGT Group Engineering Project
+# Electronic Hand Wrap Roller
 
 ## Overview
-This repository contains a collaborative engineering project developed for the EGT course. The project integrates electrical and software engineering perspectives to design, analyze, and document a system-level solution to a defined problem.
+This repository documents the development of an automated hand wrap rolling device created as part of an Engineering Graphics and Technology (EGT) team project.
 
-The repository is structured to support parallel development across disciplines while maintaining clear documentation and traceability for academic review.
+The goal of the project was to design a portable system capable of automatically rolling reusable boxing or athletic hand wraps in order to improve convenience, consistency, and storage efficiency.
+
+The project followed a structured engineering design process involving:
+- Problem identification
+- Concept generation
+- Decision matrix analysis
+- Hardware and power system design
+- Prototype development
+- System evaluation
+- Technical documentation
+
+The project was developed collaboratively by students with backgrounds in electrical engineering and computer science/software engineering.
 
 ---
 
-## Project Scope
-This project is conducted for academic purposes as part of the EGT curriculum. All designs, analyses, and implementations are exploratory and intended for learning and demonstration only.
+## Project Objectives
+- Design a portable wrap rolling system
+- Develop an electrically powered rolling mechanism
+- Evaluate multiple mechanical concepts and subsystem layouts
+- Analyze power requirements and component selection
+- Document engineering decisions and tradeoffs
+- Create a functional prototype for demonstration purposes
 
 ---
 
-## Team Structure
-The project is developed by a multidisciplinary team consisting of electrical engineering and computer science/software engineering students. Responsibilities are defined to support subsystem ownership while encouraging cross-disciplinary collaboration.
+## Engineering Focus Areas
+
+### Electrical and Power System Design
+- Battery selection and power analysis
+- Motor selection and torque considerations
+- Switch and control integration
+- Voltage regulation using boost converters
+- Power consumption evaluation
+
+### Mechanical Design
+- Wrap guidance and spool concepts
+- Housing and portability considerations
+- Ergonomic design evaluation
+- Concept comparison through decision matrices
+
+### Documentation and Systems Engineering
+- System architecture planning
+- Requirements analysis
+- Stakeholder identification
+- Design tradeoff analysis
+- Milestone and deliverable tracking
 
 ---
 
 ## Repository Structure
-- `PROJECT_CHARTER.md` – Problem definition, goals, constraints, and assumptions  
-- `ROLES.md` – Team member roles and responsibilities  
-- `MILESTONES.md` – Project phases and deliverables  
-- `DOCS/` – Design documents, reports, and supporting materials  
-- `HARDWARE/` – Electrical and hardware-related work  
-- `SOFTWARE/` – Software and firmware-related work  
 
----
+```text
+DOCS/        -> Reports, diagrams, and project documentation
+HARDWARE/    -> Electrical design work and hardware analysis
+SOFTWARE/    -> Software or firmware-related development
+MEDIA/       -> Images, renders, and presentation visuals
 
-## Development Status
-This repository reflects active development for the duration of the EGT course. Major changes and decisions will be documented as the project progresses.
+Development Process
+
+The project evolved through multiple design iterations. Early concepts explored several form factors and rolling mechanisms before converging on a portable electrically driven solution.
+
+Engineering decisions were influenced by:
+
+Component availability
+Power limitations
+Ease of manufacturing
+User ergonomics
+Reliability and simplicity
+Educational Purpose
+
+This repository was developed for academic and portfolio purposes as part of the EGT curriculum. The project emphasizes engineering process, subsystem integration, and technical documentation rather than commercial deployment.
+
+Contributors
+
+Multidisciplinary student engineering team consisting of:
+
+Electrical engineering students
+Computer science/software engineering students
+
+Specific subsystem responsibilities evolved throughout development as the project progressed.
