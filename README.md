@@ -113,6 +113,19 @@ Multidisciplinary student engineering team consisting of:
 Specific subsystem responsibilities evolved throughout development as the project progressed.
 ---
 
+---
+
+## Lessons Learned
+
+This project reinforced several important engineering concepts and development practices, including:
+- Iterative design and concept evaluation
+- Tradeoff analysis between power, portability, and usability
+- Importance of subsystem integration and documentation
+- Working within real-world constraints such as time, budget, and component availability
+- Collaborative engineering workflow across multiple disciplines
+
+The project also provided experience in technical communication, engineering organization, and structured project development.
+
 ## Repository Structure
 
 ```text
