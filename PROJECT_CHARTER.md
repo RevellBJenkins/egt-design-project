@@ -1,32 +1,39 @@
 # Project Charter
 
 ## Problem Statement
-The project addresses a defined engineering problem selected by the team and approved within the scope of the EGT course.
+
+Rolling reusable athletic hand wraps manually can be time-consuming and inconsistent. The goal of this project was to design a portable device capable of automating the rolling process while maintaining simplicity and ease of use.
 
 ---
 
-## Objectives
-- Develop a system-level solution using engineering design principles  
-- Integrate hardware and software components where appropriate  
-- Document design decisions, tradeoffs, and constraints  
-- Deliver required academic artifacts on schedule  
+## Project Objectives
+- Develop a functional hand wrap rolling system
+- Apply structured engineering design methodology
+- Integrate electrical and mechanical subsystems
+- Analyze engineering constraints and tradeoffs
+- Produce technical documentation and prototype demonstrations
 
 ---
 
 ## Constraints
-- Course timeline and deliverable requirements  
-- Team availability and academic workload  
-- Limited access to specialized hardware or tools  
+- Limited project timeline
+- Academic course requirements
+- Limited manufacturing resources
+- Budget and component availability
+- Team scheduling limitations
 
 ---
 
 ## Assumptions
-- Team members have foundational knowledge in their respective disciplines  
-- Development will prioritize clarity and documentation over optimization  
+- Users require a compact and portable solution
+- Electrical power must remain lightweight and practical
+- Prototype development prioritizes functionality over commercial robustness
 
 ---
 
 ## Out of Scope
-- Commercialization  
-- Regulatory approval  
-- Production-level robustness
+- Commercial manufacturing
+- Regulatory certification
+- Mass production optimization
+- Waterproofing or ruggedized deployment
+- Consumer-ready product refinement
