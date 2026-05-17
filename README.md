@@ -50,6 +50,32 @@ The project was developed collaboratively by students with backgrounds in electr
 - Design tradeoff analysis
 - Milestone and deliverable tracking
 
+## Development Process
+
+The project evolved through multiple design iterations. Early concepts explored several form factors and rolling mechanisms before converging on a portable electrically driven solution.
+
+Engineering decisions were influenced by:
+- Component availability
+- Power limitations
+- Ease of manufacturing
+- User ergonomics
+- Reliability and simplicity
+
+---
+
+## Educational Purpose
+
+This repository was developed for academic and portfolio purposes as part of the EGT curriculum. The project emphasizes engineering process, subsystem integration, and technical documentation rather than commercial deployment.
+
+---
+
+## Contributors
+
+Multidisciplinary student engineering team consisting of:
+- Electrical engineering students
+- Computer science/software engineering students
+
+Specific subsystem responsibilities evolved throughout development as the project progressed.
 ---
 
 ## Repository Structure
@@ -59,27 +85,3 @@ DOCS/        -> Reports, diagrams, and project documentation
 HARDWARE/    -> Electrical design work and hardware analysis
 SOFTWARE/    -> Software or firmware-related development
 MEDIA/       -> Images, renders, and presentation visuals
-
-Development Process
-
-The project evolved through multiple design iterations. Early concepts explored several form factors and rolling mechanisms before converging on a portable electrically driven solution.
-
-Engineering decisions were influenced by:
-
-Component availability
-Power limitations
-Ease of manufacturing
-User ergonomics
-Reliability and simplicity
-Educational Purpose
-
-This repository was developed for academic and portfolio purposes as part of the EGT curriculum. The project emphasizes engineering process, subsystem integration, and technical documentation rather than commercial deployment.
-
-Contributors
-
-Multidisciplinary student engineering team consisting of:
-
-Electrical engineering students
-Computer science/software engineering students
-
-Specific subsystem responsibilities evolved throughout development as the project progressed.
