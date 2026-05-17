@@ -86,6 +86,10 @@ Included materials:
 
 ![Electrical Schematic](MEDIA/electrical_schematic.png)
 
+### Mechanical Design
+
+![Mechanical Design](MEDIA/component_enclosure_top.png)
+
 ## Educational Purpose
 
 This repository was developed for academic and portfolio purposes as part of the EGT curriculum. The project emphasizes engineering process, subsystem integration, and technical documentation rather than commercial deployment.
