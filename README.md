@@ -63,6 +63,21 @@ Engineering decisions were influenced by:
 
 ---
 
+---
+
+## Project Media
+
+### Prototype and Design Images
+
+Project visuals, prototype images, engineering drawings, and electrical schematics are located in the `MEDIA/` directory.
+
+Included materials:
+- CAD drawings and enclosure designs
+- Electrical schematic development
+- Mechanical component layouts
+- Prototype and subsystem visuals
+- Engineering documentation figures
+
 ## Educational Purpose
 
 This repository was developed for academic and portfolio purposes as part of the EGT curriculum. The project emphasizes engineering process, subsystem integration, and technical documentation rather than commercial deployment.
